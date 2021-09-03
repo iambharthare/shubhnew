@@ -52,7 +52,10 @@ public class MarksheetBean {
 	public void setMath(int math) {
 		Math = math;
 	}
-	System.out.println("printed");
+	private void Sysout() {
+		// TODO Auto-generated method stub
+		"printed"
+		}
 	
 
 }
